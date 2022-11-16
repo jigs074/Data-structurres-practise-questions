@@ -20,6 +20,7 @@ int missingNumber(int arr[], int size) {
 }
 int main(void) {
 	int arr[] = { 1 }; 
+
 	
 	int size = sizeof(arr) / sizeof(arr[0]); 
 
